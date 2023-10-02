@@ -1,0 +1,5 @@
+'C:/Users/Acer/sql-from-zero-to-hero/00_create_database.sql'
+
+'C:/Users/Acer/sql-from-zero-to-hero/01_create_teachers_table.sql'
+
+'C:/Users/Acer/sql-from-zero-to-hero/02_create_courses_table.sql'
