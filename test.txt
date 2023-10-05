@@ -3,3 +3,15 @@
 'C:/Users/Acer/sql-from-zero-to-hero/01_create_teachers_table.sql'
 
 'C:/Users/Acer/sql-from-zero-to-hero/02_create_courses_table.sql'
+
+'C:/Users/Acer/sql-from-zero-to-hero/07_insert_teachers.sql'
+
+'C:/Users/Acer/sql-from-zero-to-hero/08_insert_courses.sql'
+
+'C:/Users/Acer/sql-from-zero-to-hero/09_insert_subjects.sql'
+
+'C:/Users/Acer/sql-from-zero-to-hero/10_insert_teacher_subjects.sql'
+
+'C:/Users/Acer/sql-from-zero-to-hero/11_insert_students.sql'
+
+'C:/Users/Acer/sql-from-zero-to-hero/12_insert_point.sql'

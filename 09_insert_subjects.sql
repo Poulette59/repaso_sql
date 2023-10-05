@@ -1,5 +1,5 @@
 \c new_school
-DELETE FROM subjects
+DELETE FROM subjects;
 INSERT INTO subjects(name)
 VALUES('html'),
     ('python'),

@@ -1,5 +1,5 @@
 \c new_school
-DELETE FROM teachers
+DELETE FROM teachers;
 INSERT INTO teachers(name)
 VALUES('Gonzalo'),
     ('Sebastian'),
